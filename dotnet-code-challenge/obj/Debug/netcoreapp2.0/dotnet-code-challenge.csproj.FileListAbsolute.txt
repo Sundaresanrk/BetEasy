@@ -1,0 +1,13 @@
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\bin\Debug\netcoreapp2.0\dotnet_code_challenge.deps.json
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\bin\Debug\netcoreapp2.0\dotnet_code_challenge.runtimeconfig.json
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\bin\Debug\netcoreapp2.0\dotnet_code_challenge.runtimeconfig.dev.json
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\bin\Debug\netcoreapp2.0\dotnet_code_challenge.dll
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\bin\Debug\netcoreapp2.0\dotnet_code_challenge.pdb
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet-code-challenge.csprojAssemblyReference.cache
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet-code-challenge.csproj.CoreCompileInputs.cache
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet-code-challenge.AssemblyInfoInputs.cache
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet-code-challenge.AssemblyInfo.cs
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet_code_challenge.dll
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet_code_challenge.pdb
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\bin\Debug\netcoreapp2.0\FeedData\Caulfield_Race1.xml
+C:\Projects\Beteasy\code-challenge\dotnet-code-challenge\bin\Debug\netcoreapp2.0\FeedData\Wolferhampton_Race1.json
